@@ -6,3 +6,5 @@ window.addEventListener('load', function() {
     loader.classList.add('fade-out');
   }, 2500);
 });
+
+
