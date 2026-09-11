@@ -3,9 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/index.css">
     <title>MID2 Studio</title>
 </head>
 <body>
-    
+    <div id="loader-wrapper">
+  <div class="loader-content">
+    <div class="logo-container">
+      <!-- 圓形繪製動畫：r="45" 圓周長約為 2 * π * 45 ≈ 283 -->
+      <svg class="circle-svg" viewBox="0 0 100 100">
+        <circle class="circle-bg" cx="50" cy="50" r="45" />
+        <circle class="circle-path" cx="50" cy="50" r="45" />
+      </svg>
+      
+      <!-- 中央 Logo (可換成你的 Logo SVG 或圖片) -->
+      <div class="logo-icon">
+        <img src="./img/MID2-logo.svg" alt="Logo">
+      </div>
+    </div>
+
+    <!-- 後續展開的品牌文字 -->
+    <div class="brand-text">MID2 Studio</div>
+  </div>
+</div>
+
+<script src="./script/index.js"></script>
 </body>
 </html>

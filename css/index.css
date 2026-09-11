@@ -1,0 +1,109 @@
+/* 全螢幕載入遮罩 */
+#loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #e5e5e5; /* 圖片中的灰白色背景 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  transition: opacity 0.8s cubic-bezier(0.77, 0, 0.175, 1), visibility 0.8s;
+}
+
+#loader-wrapper.fade-out {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.loader-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 1. 圓圈與 Logo 容器 */
+.logo-container {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* 動畫：畫完圓後縮小淡出 */
+  animation: logoShrink 0.6s cubic-bezier(0.77, 0, 0.175, 1) 1.2s forwards;
+}
+
+/* SVG 圓圈繪製效果 */
+.circle-svg {
+  position: absolute;
+  width: 170%;
+  height: 170%;
+  transform: rotate(-90deg); /* 從正上方開始畫圓 */
+}
+
+.circle-bg {
+  fill: none;
+  stroke: rgba(0, 0, 0, 0.05); /* 淡灰色底圈 */
+  stroke-width: 1.5;
+}
+
+.circle-path {
+  fill: none;
+  stroke: #111111; /* 繪製深色外圈 */
+  stroke-width: 1.5;
+  stroke-dasharray: 283; /* 圓周長 (2 * π * 45) */
+  stroke-dashoffset: 283;
+  animation: drawCircle 1s cubic-bezier(0.65, 0, 0.35, 1) forwards;
+}
+
+.logo-icon {
+  width: 70px;
+  height: 70px;
+}
+
+.logo-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* 2. 品牌文字動畫 */
+.brand-text {
+  font-family: 'Playfair Display', serif; /* 建議使用 Serif 襯線體 */
+  font-size: 50px;
+  font-weight: 600;
+  color: #111111;
+  opacity: 0;
+  transform: scale(0.9);
+  margin-top: -60px; /* 覆蓋在原本 Logo 位置 */
+  animation: textAppear 0.8s cubic-bezier(0.16, 1, 0.3, 1) 1.6s forwards;
+}
+
+/* --- Keyframes 關鍵影格動畫 --- */
+
+/* 描繪圓圈 */
+@keyframes drawCircle {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Logo 與圓圈縮小淡出 */
+@keyframes logoShrink {
+  to {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+}
+
+/* 文字放大登場 */
+@keyframes textAppear {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
