@@ -1,0 +1,132 @@
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\UjlFhCnUjxhNfep4oYBPqnEssyo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/framer.BnhRLFm4.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\framer.BnhRLFm4.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/motion.uC3ezD0d.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\motion.uC3ezD0d.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/NcFm29sIt_k-3yorHY0fskZG8W2AfPO78gFD-wRC8MM.CH-NSRwU.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\NcFm29sIt_k-3yorHY0fskZG8W2AfPO78gFD-wRC8MM.CH-NSRwU.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/react.D20wc1Tc.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\react.D20wc1Tc.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/rolldown-runtime.Dh6celcD.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\rolldown-runtime.Dh6celcD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/script_main.Bt__QEGm.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\script_main.Bt__QEGm.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3JdmqPqYj8Y0XMdVLScSa/shared-lib.BJGr-Yhp.mjs
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\3JdmqPqYj8Y0XMdVLScSa\shared-lib.BJGr-Yhp.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/icons/default-favicon-dark.v1.png
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\icons\default-favicon-dark.v1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/icons/default-favicon-light.v1.png
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\icons\default-favicon-light.v1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/icons/default-touch-icon.v3.png
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\sites\icons\default-touch-icon.v3.png
+Content Type: image/png
+
+Uri: https://nicktest.framer.website/
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\index.htm
+Content Type: text/html
+
+Uri: https://nicktest.framer.website/zh/
+File Name: C:\Downloaded Web Sites\nicktest.framer.website\zh\index.htm
+Content Type: text/html
+
